@@ -17,6 +17,7 @@ Sau khi hoàn thành, chương trình giúp sinh viên:
 
 ## 🛠️ Cấu trúc dự án
 Repo gồm các file sau:
+.
 ├── main.py
 ├── StaticError.py # Log error
 ├── Symbol.py
