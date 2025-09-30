@@ -45,11 +45,6 @@ Chạy chương trình chính:
 python main.py
 ```
 
-Chạy bộ test:
-```bash
-python TestSuite.py
-```
-
 ---
 
 ## 📥 Đầu vào
@@ -104,34 +99,6 @@ success
 0
 ```
 
----
-
-## 📑 Quy tắc lập trình
-- Không sử dụng vòng lặp (`for`, `while`, ...).  
-- Không định nghĩa lớp, biến toàn cục.  
-- Mọi biến phải **bất biến** (immutable).  
-- Chỉ được import:
-  ```python
-  from StaticError import *
-  from Symbol import *
-  from functools import *
-  ```
-
----
-
-## 📝 Yêu cầu nộp
-- Nộp **2 file**: `SymbolTable.py` và `TestSuite.py`.  
-- `TestSuite.py` phải có **ít nhất 50 test case**.  
-- Nộp qua hệ thống, **không chấp nhận bài trễ**.  
-
----
-
-## ⚖️ Quy định
-- Sinh viên **tự làm**, không chia sẻ code.  
-- Giảng viên có toàn quyền quyết định kết quả cuối.  
-- Không cung cấp test case sau khi chấm, chỉ có hướng dẫn chiến lược test.  
-
----
 
 ✍️ **Tác giả**: ThS. Trần Ngọc Bảo Duy, CN. Thi Khắc Quân  
 📅 **Tháng 03/2025 – Đại học Bách Khoa, ĐHQG-HCM**
